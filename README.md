@@ -1,4 +1,4 @@
-# WeatherTips
+# Weather Tips App
 Provide safety tips that based on the weather temperature.
 
 1. API: OpenWeatherMap API
